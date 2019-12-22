@@ -4,11 +4,11 @@ In this project, we are creating Dynamic reporting page for  UFO's Sighting acr
 
 ### Scripting Languages and Tools :
 
-**1.**  **JavaScript** : JS , is a high-level ,Just in time compiled, object-oriented programming language . JS is used for  creating and styling various webpages with HTML .<BR>
+**1.** : **JavaScript** : JS , is a high-level ,Just in time compiled, object-oriented programming language . JS is used for  creating and styling various webpages with HTML .<BR>
  **->** For this project we have used  JS library like D3, D3.js helps in dynamically manipulating the data for the websites and its emphasis on web standards gives you the full capabilities of modern browsers without tying yourself to a proprietary framework, combining powerful visualization components and a data-driven approach to DOM manipulation. <BR>
 **->** For filtering the data for each and if loops along with the arrow functions were used. <BR>
   
-**2.** **HTML** : HTML is the standard markup language for Web pages. We have created the final website using HTML and CSS .
+**2.**: **HTML** : HTML is the standard markup language for Web pages. We have created the final website using HTML and CSS .
 
 **3.** : **CSS**  Cascading stye sheet is a language that describes the style of an HTML document. CSS describes how HTML elements should be displayed <BR>
 
@@ -35,7 +35,7 @@ Using HTML inputs tags user input is taken.  Using class and container function
 
 <BR>
   
-**Limitations and Recommendation : **
+**Limitations and Recommendation :**
 
 User Input: Filter does not  consider white spaces and upper or lowercase for the input  string  
 
